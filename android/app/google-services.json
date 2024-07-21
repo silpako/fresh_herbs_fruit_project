@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "724226366877",
+    "project_id": "fresh-hvf",
+    "storage_bucket": "fresh-hvf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724226366877:android:7d5084b2eb5c345305a374",
+        "android_client_info": {
+          "package_name": "com.silpa.herb_fruit_veg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDayleqZ7MLY9EjUo8xWTh44ZXXbV-ACf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
